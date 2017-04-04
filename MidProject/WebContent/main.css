@@ -1,0 +1,42 @@
+@CHARSET "UTF-8";
+header {
+	background-image: url('images/food-background.jpg');
+	border: 3px solid purple;
+	height: 90px;
+}
+
+nav {
+	float: right;
+	
+	
+}
+
+nav ul li {
+	float: left;
+	margin: 10px;
+	list-style: none;
+}
+
+footer {
+	float: none;
+}
+
+aside {
+	border: 2px solid pink;
+}
+
+article {
+	width: 80%;
+	margin: 50px;
+	
+}
+
+figure {
+	text-align: center;
+	float: right;
+}
+
+section {
+	height: 30px;
+	margin: 50px;
+}
